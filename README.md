@@ -18,7 +18,7 @@ A simple image‐captioning pipeline that fine-tunes a Vision Transformer (ViT) 
 ## 📥 Dataset
 
 1. Download **Flickr8k** from Kaggle:  
-   https://www.kaggle.com/datasets/adityajn105/flickr8k  
+   https://www.kaggle.com/datasets/nunenuh/flickr8k 
 2. Extract to the location of your choice so that you have:  
 
 ```
