@@ -91,7 +91,7 @@ python ViT-BERT_test_script.py
 * Training notebook covers data preprocessing, model setup, and training loop.
 * Testing script handles image loading, preprocessing, and caption generation.
 * Although the notebook is named "flickr1k", it should be used with Flickr8k for consistency.
-* We used 1000 images and lower number of epochs due to system system constraints you can utilize full dataset with higher epochs for impoved and better results.
+* We used 1000 images and lower number of epochs due to system constraints you can utilize full dataset with higher epochs for impoved and better results.
 
 ---
 
