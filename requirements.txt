@@ -1,0 +1,9 @@
+pip install torch torchvision
+pip install transformers
+pip install datasets
+pip install pillow
+pip install matplotlib
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install safetensors
